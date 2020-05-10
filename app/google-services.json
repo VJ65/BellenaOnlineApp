@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484928906484",
+    "firebase_url": "https://laibfinalproject.firebaseio.com",
+    "project_id": "laibfinalproject",
+    "storage_bucket": "laibfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484928906484:android:208e373d09555f5d17aaa1",
+        "android_client_info": {
+          "package_name": "com.example.laibfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484928906484-93pj1b51ofutie3ri8d8qq00luflsu2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZGArSdcaTO3zifID8dpNJn7MRhmhyvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484928906484-93pj1b51ofutie3ri8d8qq00luflsu2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

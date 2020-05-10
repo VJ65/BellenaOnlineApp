@@ -1,0 +1,2 @@
+rootProject.name='LaibFinalProject'
+include ':app'

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/hm" android:title="Home" android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/profile" android:title="My profile"  android:icon="@drawable/ic_dashboard_black_24dp"/>
+    <item android:id="@+id/MC" android:title="Makeup catagories"  android:icon="@drawable/ic_brush_black_24dp"/>
+    <item android:id="@+id/abb" android:title="About us"  android:icon="@drawable/ic_local_florist_black_24dp"/>
+    <item android:id="@+id/cs" android:title="Contact us"  android:icon="@drawable/conatct"/>
+    <item android:id="@+id/Review" android:title="Review"  android:icon="@drawable/ic_rate_review_black_24dp"/>
+    <item android:id="@+id/logout" android:title="logout"  android:icon="@drawable/download" />
+</menu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
